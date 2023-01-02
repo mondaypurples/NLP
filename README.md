@@ -7,4 +7,3 @@ Introduction to Natural Language Processing in Python
     - Combining NLP data extraction with plotting
     
 2. Simple topic identification
-    - 
