@@ -7,3 +7,6 @@ Introduction to Natural Language Processing in Python
     - Combining NLP data extraction with plotting
     
 2. Simple topic identification
+    Two simple methods:
+    - bag-of-words
+    - Tf-idf using NLTK, and a new library Gensim
