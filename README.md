@@ -10,3 +10,10 @@ Introduction to Natural Language Processing in Python
     Two simple methods:
     - bag-of-words
     - Tf-idf using NLTK, and a new library Gensim
+3. Named entity recognition
+    - kind of problems NER can solve
+            - Information Extraction
+            - Question answering
+            - Text summarization
+            - Entity disambiguation
+            - Text clasification
