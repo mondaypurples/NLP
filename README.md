@@ -18,7 +18,7 @@ Introduction to Natural Language Processing in Python
             - Entity disambiguation
             - Text clasification
 4. Named entity recognition using NLTK
-        - NLTK
-        - SpaCy
-        - Comparing NLTK with spaCy NER
-        - Multilingual NER with plotglot library
+    - NLTK
+    - SpaCy
+    - Comparing NLTK with spaCy NER
+    - Multilingual NER with plotglot library
